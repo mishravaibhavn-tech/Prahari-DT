@@ -162,7 +162,7 @@ export default function S4_Prognostics() {
               REMAINING USEFUL LIFE TRAJECTORY · {selectedComponent}
             </span>
             <div className="label-xs" style={{ fontSize: 9, color: "var(--text-secondary)" }}>
-              TBO LIMIT: 300 HOURS · CURRENT PREDICTED FLEET WEAR
+              TBO LIMIT: 1,500 HOURS · CURRENT PREDICTED FLEET WEAR
             </div>
           </div>
 
